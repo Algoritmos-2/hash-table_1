@@ -24,9 +24,9 @@ La salida contendrá 1 línea, que es la cantidad de palabras que ocurrieron exa
 | AAA         |
 | BAB         |
 | ABC         |
+| AAA         |
 | ABC         |
 | BCA         |
-| AAA         |
 | BBB         |
 
 | Salida      |
@@ -34,11 +34,14 @@ La salida contendrá 1 línea, que es la cantidad de palabras que ocurrieron exa
 | 2           |
 
 ### Ejemplo 2
-#### Entrada
-4
-AAA
-AAA
-AAA
-BAC
-#### Salida
-0
+| Entrada     |
+| ----------- |
+| 4           |
+| AAA         |
+| AAA         |
+| AAA         |
+| BAC         |
+
+| Salida      |
+| ----------- |
+| 2           |
