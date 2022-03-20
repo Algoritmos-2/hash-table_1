@@ -44,4 +44,4 @@ La salida contendrá 1 línea, que es la cantidad de palabras que ocurrieron exa
 
 | Salida      |
 | ----------- |
-| 2           |
+| 0           |
