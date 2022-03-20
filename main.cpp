@@ -7,6 +7,8 @@ using namespace std;
 
 int main()
 {
-    HashTable * tabla = new HashTable(10);
+    int N;
+    cin >> N;
+    // HashTable * tabla = new HashTable(?);
     return 0;
 }
