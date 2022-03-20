@@ -1,1 +1,1 @@
-# hash-table-template
+# Tablas de Hash - Ejercicio 1
