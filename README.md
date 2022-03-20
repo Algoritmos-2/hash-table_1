@@ -18,17 +18,20 @@ La salida contendrá 1 línea, que es la cantidad de palabras que ocurrieron exa
 
 ## Ejemplos
 ### Ejemplo 1
-#### Entrada
-7
-AAA
-BAB
-ABC
-AAA
-ABC
-BCA
-BBB
-#### Salida
-2
+| Entrada     |
+| ----------- |
+| 7           |
+| AAA         |
+| BAB         |
+| ABC         |
+| ABC         |
+| BCA         |
+| AAA         |
+| BBB         |
+
+| Salida      |
+| ----------- |
+| 2           |
 
 ### Ejemplo 2
 #### Entrada
