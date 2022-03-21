@@ -4,12 +4,13 @@ Dada una secuencia de palabras se desea saber aquellas que aparecieron exactamen
 Restricciones: O(N) caso promedio en tiempo de ejecución.
 
 ## Formato de entrada
-N
-palabra1
-palabra2
-… 
-palabraN
-
+| Entrada     |
+| ----------- |
+| N           |
+| palabra1    |
+| palabra2    |
+| ...         |
+| palabraN    |
 
 La primera línea indica la cantidad de palabras a leer. Las siguientes N líneas son el conjunto de palabras a trabajar.
 
