@@ -6,7 +6,6 @@ FOLDER=./
 
 mkdir "$BUILD_FOLDER" 
 
-
 TEST_FOLDER=./Tests
 JAVAFILE=$FOLDER/Main.java
 CPPFILE=$FOLDER/main.cpp
@@ -22,7 +21,7 @@ if [ -f "$CPPFILE" ]; then
     fi
 else 
     echo "Realizado en JAVA"
-    if ! javac $JAVAFILE -d $BUILD_FOLDER -sourcepath $FOLDER; then
+    if ! javac $JAVAFILE -d $FOLDER -sourcepath $FOLDER; then
     echo -e "\e[31mERROR en compilacion\e[0m"
     exit 1
     continue

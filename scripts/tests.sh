@@ -4,8 +4,6 @@
 BUILD_FOLDER=./build
 FOLDER=./
 
-mkdir "$BUILD_FOLDER" 
-
 
 TEST_FOLDER=./Tests
 JAVAFILE=$FOLDER/Main.java
