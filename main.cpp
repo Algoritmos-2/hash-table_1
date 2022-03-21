@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 #include <limits>
-#include "./DataStructures/HashTable.cpp"
+#include "./datastructures/HashTable.cpp"
 using namespace std;
 
 int main()
