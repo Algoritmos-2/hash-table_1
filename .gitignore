@@ -1,5 +1,8 @@
 *.out
 *.class
 
+# own output files
+*.own.txt
+
 # build folder
 build
