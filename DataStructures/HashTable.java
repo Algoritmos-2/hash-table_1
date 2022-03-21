@@ -9,20 +9,22 @@ public class HashTable {
         // TODO
     }
 
-    public void insertar(string clave, int valor)
+    public void add(String clave, int valor)
     {
         // TODO
     }
-    public void eliminar(string clave)
+    public void remove(String clave)
     {
         // TODO
     }
-    public int recuperar(string clave)
+    public int get(String clave)
     {
+        return 0;
         // TODO
     }
-    public boolean existe(string clave)
+    public boolean exist(String clave)
     {
+        return false;
         // TODO
     }
 }

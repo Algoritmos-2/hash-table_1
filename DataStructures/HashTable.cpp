@@ -20,19 +20,19 @@ public:
     {
         // TODO
     }
-    void insertar(string clave, int valor)
+    void add(string clave, int valor)
     {
         // TODO
     }
-    void eliminar(string clave)
+    void remove(string clave)
     {
         // TODO
     }
-    int recuperar(string clave)
+    int get(string clave)
     {
         // TODO
     }
-    bool existe(string clave)
+    bool exist(string clave)
     {
         // TODO
     }
