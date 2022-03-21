@@ -1,4 +1,4 @@
-package data_structures;
+package datastructures;
 
 // TODO:
 // - Implementar la Tabla de hash
@@ -25,6 +25,12 @@ public class HashTable {
     public boolean exist(String clave)
     {
         return false;
+        // TODO
+    }
+
+    public String print()
+    {
+        return "asa";
         // TODO
     }
 }
