@@ -27,10 +27,4 @@ public class HashTable {
         return false;
         // TODO
     }
-
-    public String print()
-    {
-        return "asa";
-        // TODO
-    }
 }
